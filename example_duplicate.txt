@@ -1,0 +1,3 @@
+# CredSentinel synthetic duplicate-location fixture; never a provisioned token.
+# The repeated value is intentional: expect one finding with two occurrences.
+github_token="ghp_7dKm9PqR2sT4vW6xY8zA0bC3eF5gH1jL9nOp"
