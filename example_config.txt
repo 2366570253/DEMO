@@ -1,0 +1,6 @@
+# CredSentinel synthetic demonstration fixture.
+# These strings were invented for testing and have never been provisioned.
+# This is plain text, not executable configuration for any real service.
+github_token="ghp_7dKm9PqR2sT4vW6xY8zA0bC3eF5gH1jL9nOp"
+db_password="R7v!mN9#xQ2@bK6$"
+client_secret="fN7rP4aM2xK9wQ6sJ8uV3cL5"
